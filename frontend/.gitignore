@@ -1,0 +1,12 @@
+# Secret keys - never upload these
+backend/.env
+
+# Dependencies - too large to upload
+backend/node_modules/
+
+# Data files
+backend/data/
+
+# System files
+.DS_Store
+Thumbs.db

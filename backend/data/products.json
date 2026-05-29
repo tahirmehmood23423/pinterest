@@ -1,0 +1,137 @@
+{
+  "products": [
+    {
+      "name": "Minimalist LED Desk Lamp",
+      "category": "Home & Office",
+      "emoji": "🪔",
+      "trendScore": 91,
+      "trendGrowth": "+47%",
+      "estimatedMargin": "$18-32",
+      "priceRange": "$24-45",
+      "tags": [
+        "trending",
+        "high-margin",
+        "evergreen"
+      ],
+      "pinterestAppeal": "Perfect for aesthetic desk setup photos",
+      "affiliatePrograms": [
+        "Amazon Associates",
+        "AliExpress Affiliate"
+      ],
+      "id": 1,
+      "approved": null,
+      "createdAt": "2026-05-29T03:02:01.941Z"
+    },
+    {
+      "name": "Portable Blender Bottle",
+      "category": "Kitchen & Fitness",
+      "emoji": "🥤",
+      "trendScore": 88,
+      "trendGrowth": "+61%",
+      "estimatedMargin": "$12-22",
+      "priceRange": "$18-35",
+      "tags": [
+        "viral",
+        "fitness-niche",
+        "gifting"
+      ],
+      "pinterestAppeal": "Highly shareable healthy lifestyle content",
+      "affiliatePrograms": [
+        "Amazon Associates",
+        "Daraz Affiliate"
+      ],
+      "id": 2,
+      "approved": null,
+      "createdAt": "2026-05-29T03:02:01.941Z"
+    },
+    {
+      "name": "Magnetic Phone Mount Car",
+      "category": "Automotive",
+      "emoji": "🧲",
+      "trendScore": 85,
+      "trendGrowth": "+38%",
+      "estimatedMargin": "$8-16",
+      "priceRange": "$12-22",
+      "tags": [
+        "high-demand",
+        "repeat-buy",
+        "practical"
+      ],
+      "pinterestAppeal": "Car organization boards are huge on Pinterest",
+      "affiliatePrograms": [
+        "Amazon Associates",
+        "AliExpress Affiliate"
+      ],
+      "id": 3,
+      "approved": null,
+      "createdAt": "2026-05-29T03:02:01.941Z"
+    },
+    {
+      "name": "Silicone Cable Organizer Set",
+      "category": "Accessories",
+      "emoji": "🔌",
+      "trendScore": 82,
+      "trendGrowth": "+29%",
+      "estimatedMargin": "$6-12",
+      "priceRange": "$9-18",
+      "tags": [
+        "cheap-source",
+        "bundle-item",
+        "desk"
+      ],
+      "pinterestAppeal": "Desk organization is a top Pinterest category",
+      "affiliatePrograms": [
+        "Amazon Associates"
+      ],
+      "id": 4,
+      "approved": null,
+      "createdAt": "2026-05-29T03:02:01.941Z"
+    },
+    {
+      "name": "Reusable Beeswax Food Wraps",
+      "category": "Eco Home",
+      "emoji": "🍃",
+      "trendScore": 79,
+      "trendGrowth": "+52%",
+      "estimatedMargin": "$10-20",
+      "priceRange": "$15-28",
+      "tags": [
+        "eco-niche",
+        "gifting",
+        "kitchen"
+      ],
+      "pinterestAppeal": "Eco-living boards drive massive engagement",
+      "affiliatePrograms": [
+        "Amazon Associates",
+        "Etsy Affiliate"
+      ],
+      "id": 5,
+      "approved": null,
+      "createdAt": "2026-05-29T03:02:01.941Z"
+    },
+    {
+      "name": "Foldable Travel Yoga Mat",
+      "category": "Fitness",
+      "emoji": "🧘",
+      "trendScore": 77,
+      "trendGrowth": "+44%",
+      "estimatedMargin": "$14-28",
+      "priceRange": "$22-40",
+      "tags": [
+        "seasonal",
+        "high-visual",
+        "fitness"
+      ],
+      "pinterestAppeal": "Fitness pins are top performers year-round",
+      "affiliatePrograms": [
+        "Amazon Associates",
+        "Daraz Affiliate"
+      ],
+      "id": 6,
+      "approved": null,
+      "createdAt": "2026-05-29T03:02:01.941Z"
+    }
+  ],
+  "lastRun": "2026-05-29T03:02:01.941Z",
+  "trendCount": 8
+}
